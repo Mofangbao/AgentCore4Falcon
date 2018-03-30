@@ -32,3 +32,5 @@ java -jar ./jars/sample.jar
 建议不同语言写的插件在plugins目录下建立不同的文件夹存放，这样便于管理，如java程序的就放在jars目录下，python程序的就放在python目录下。
     
 所有文本相关的编码都必须为utf8，否则中文会乱码，如果使用默认的agent.py，需要先安装python的psutil库，同时python需要在环境变量中，否则需要指明python全路径。
+#致谢
+示例中的windows状态收集程序使用了 [https://github.com/freedomkk-qfeng/falcon-scripts/tree/master/windows_collect](https://github.com/freedomkk-qfeng/falcon-scripts/tree/master/windows_collect)
