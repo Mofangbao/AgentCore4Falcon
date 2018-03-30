@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/projects/java/AgentCore/src/main/LogUtil.java</file>
+            <file>file:/F:/projects/java/AgentCore/src/main/Main.java</file>
+            <file>file:/F:/projects/java/AgentCore/src/main/Model.java</file>
+            <file>file:/F:/projects/java/AgentCore/src/executors/ExecutorFactory.java</file>
+            <file>file:/F:/projects/java/AgentCore/src/main/Agent.java</file>
+            <file>file:/F:/projects/java/AgentCore/src/executors/BaseExecutor.java</file>
+            <file>file:/F:/projects/java/AgentCore/src/main/Config.java</file>
+            <file>file:/F:/projects/java/AgentCore/src/executors/PythonExecutor.java</file>
+        </group>
+    </open-files>
+</project-private>
