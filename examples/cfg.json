@@ -1,0 +1,5 @@
+{
+  "transfers":["http://xxx.xxx.xxx:1988/v1/push"],
+  "hostName":"local-machine",
+  "debug":false
+}
